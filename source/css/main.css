@@ -169,7 +169,7 @@ img {
     padding: 10px;
 }
 
-#teams {
+#teams, #servicios, #clientes {
     display: flex;
     flex-direction: column;
     justify-content: left;
@@ -178,13 +178,13 @@ img {
     padding: 10px;
 }
 
-#teams ul li {
+#teams ul li, #servicios ul li, #clientes ul li {
     list-style: none;
     margin: 0px 8px;
     padding: 10px 10px;
 }
 
-#teams ul li:hover {
+#teams ul li:hover, #servicios ul li:hover, #clientes ul li:hover {
     background: rgba(221, 213, 247, 0.434);
     color: rgb(0, 0, 0);
     border: 1px solid rgb(0, 0, 0);
