@@ -82,13 +82,13 @@ img {
     /* background: rgb(35, 230, 145); */
 }
 
-#content-pictures div > a:hover {
+/* #content-pictures div > a:hover {
     background: rgba(221, 213, 247, 0.434);
     color: rgb(0, 0, 0);
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
 
-}
+} */
 
 
 #p-footer {
@@ -111,30 +111,7 @@ img {
     padding: 10px 20px;
 }
 
-
-#c-videos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-    padding: 10px;
-}
-
-#c-videos video {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 10px;
-    padding: 10px;
-    width: 320px;
-    height: 240px;
-    object-fit: cover;
-    border: 1px solid rgb(0, 0, 0);
-    
-}
-
 /* About section */
-
 #about {
     display: flex;
     justify-content: center;
